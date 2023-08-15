@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shriyanshsinha9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16YG7rhMe4lEFifbKnSnLzTVo69z2gw0E/view?usp=sharing]([https://tinyurl.com/ysrr5kw6])
+- 📄 Know about my experiences [https://tinyurl.com/ysrr5kw6]([https://tinyurl.com/ysrr5kw6])
 
 - ⚡ Fun fact **I tend to overuse semicolons; in both code and conversation**
 

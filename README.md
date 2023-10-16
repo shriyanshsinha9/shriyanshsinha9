@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/shriyansh-sinha-42984028b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shriyansh-sinha-ab1665214" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shriyansh-sinha-42984028b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shriyansh-sinha-42984028b" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/killswitch9173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shriyanshsinha9" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shriyanshsinha9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shriyanshsinha9" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discordapp.com/users/355775593201270784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/355775593201270784" height="30" width="40" /></a>

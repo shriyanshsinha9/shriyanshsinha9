@@ -33,6 +33,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriyanshsinha9&" alt="shriyanshsinha9" /></p>
 <hr>
 
-[![@hydraphyzer's Holopin board](https://holopin.me/hydraphyzer)](https://holopin.io/@hydraphyzer)
+[![@shriyanshsinha9's Holopin board](https://holopin.me/shriyanshsinha9)](https://holopin.io/@shriyanshsinha9)
 
 

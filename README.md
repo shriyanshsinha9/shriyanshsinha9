@@ -28,5 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriyanshsinha9&" alt="shriyanshsinha9" /></p>
 
-<p>[![An image of @shriyanshsinha9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shriyanshsinha9)](https://holopin.io/@shriyanshsinha9)</p>
+<a href='https://holopin.io/@shriyanshsinha9'>
+    <img src='https://holopin.onrender.com/shriyanshsinha9'/>
+</a>
 
